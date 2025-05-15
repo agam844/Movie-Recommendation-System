@@ -33,5 +33,5 @@ This is a simple content-based movie recommender built using Python. It suggests
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/agam844/Movie-Recommendation-System
    cd movie-recommendation-system
